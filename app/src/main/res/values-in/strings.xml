@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KATALOG FILM</string>
+    <string name="title_movie">FILM</string>
+    <string name="title_tvshow">TAYANGAN TV</string>
+    <string name="description">Deskripsi</string>
+    <string name="title_tv">Tayangan TV</string>
+    <string name="Description">Deskripsi</string>
+    <string name="Genre">Penghitungan Suara</string>
+    <string name="Duration">Popularitas</string>
+    <string name="Director">Suara Rata-Rata</string>
+    <string name="Sinopsis">Ikhtisar</string>
+<string name="change_language_settings">Konfigurasi Bahasa</string>
+</resources>
